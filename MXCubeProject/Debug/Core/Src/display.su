@@ -1,0 +1,10 @@
+../Core/Src/display.c:18:6:DISPLAY_SendCMD	40	static
+../Core/Src/display.c:42:6:DISPLAY_WriteData	32	static
+../Core/Src/display.c:68:6:DISPLAY_Clear	16	static
+../Core/Src/display.c:75:6:DISPLAY_Init	8	static
+../Core/Src/display.c:84:6:DISPLAY_Print	56	static,ignoring_inline_asm
+../Core/Src/display.c:105:6:DISPLAY_Hour	24	static
+../Core/Src/display.c:113:6:DISPLAY_Minutes	24	static
+../Core/Src/display.c:121:6:DISPLAY_Seconds	24	static
+../Core/Src/display.c:129:6:DISPLAY_Milli	24	static
+../Core/Src/display.c:143:6:DISPLAY_Point	16	static,ignoring_inline_asm
